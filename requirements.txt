@@ -1,4 +1,4 @@
-vosk
+faster-whisper
 sounddevice
 scipy
 faiss-cpu
@@ -12,3 +12,4 @@ fugashi
 cutlet
 mecab-python3
 unidic-lite
+transformers
