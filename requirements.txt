@@ -1,0 +1,10 @@
+vosk
+sounddevice
+scipy
+faiss-cpu
+numpy
+langdetect
+coqui-tts
+pyaudio
+sentence-transformers
+pydub

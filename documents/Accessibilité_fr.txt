@@ -1,0 +1,127 @@
+L’accessibilité est un terme initialement relatif au monde du handicap, des enfants ou des personnes âgées, puis étendu à l'ensemble des citoyens et utilisé pour désigner l'accès à différents domaines. Il s'agit d'assurer l'accès pour toutes personnes à la liberté de déplacement dans l'espace, au droit de vote et de scolarisation, au développement de la culture, aux espaces numériques, au travail en milieu ordinaire et aux services de santé.
+Pour les personnes en situation de handicap, l'objectif de l'accessibilité est de permettre une vie ordinaire. Mais c'est aussi une préoccupation dans diverses situations pour des individus qui ne sont pas à proprement parler en situation de handicap, comme les femmes enceintes, les personnes en situation d'incapacité temporaire consécutive à un accident, les personnes en surpoids ou les personnes âgées faisant face à des difficultés sensorielles.
+Le terme "accessibilité" est aussi utilisé dans la Convention relative aux droits des personnes handicapées (CDPH) développée sur la base de la Déclaration universelle des droits de l'homme et adoptée en 2006 par l'Assemblée générale de l'ONU, qui a pour but de garantir le respect des droits des personnes handicapées.
+Dans les pays signataires, l'obligation de l'État en matière d'accessibilité est couverte par l'article 9 de la CDPH, qui a été expliqué dans l'observation générale numéro 2 du Comité CDPH.
+
+
+== Handicap ==
+
+En France, le principe de prise en compte des handicaps apparaît dans la loi du 30 juin 1975 d'orientation en faveur des personnes handicapées.
+
+
+== Accessibilité spatiale ==
+
+
+=== Définition de l'accessibilité dans le domaine des transports ===
+Dans ce secteur l'accessibilité renvoie à deux définitions :
+
+l'accessibilité dans les transports définit la possibilité pour tous d'accéder aux systèmes de transport, qui renvoie en partie à la question des personnes à mobilité réduite. En Côte d'Ivoire par exemple, il n'y a aucune disposition pour les personnes en situation de handicap en matière de transport. La loi française du 11 février 2005 impose que soit traitée l'intégralité de la chaîne du déplacement, en liant la question des transports à celles de l'urbanisme et de la voirie. L'accessibilité à la chaîne du déplacement devait être réalisée en France au 1er février 2015.
+l'accessibilité est aussi une notion de la géographie et de l'économie qui rend compte de la plus ou moins grande facilité avec laquelle on peut accéder à un lieu en utilisant les moyens de transport. La définition économique de l'accessibilité met l'accent sur la possibilité d'une interaction entre agents économiques dans les lieux que l'on cherche à atteindre (travail, achat, etc.). À partir de cette notion il est possible de construire des mesures d'accessibilité pour évaluer la performance spatiale et territoriale des réseaux de transport.
+Pour ce qui concerne l'Accessibilité de la voirie et des espaces publics en France, la loi du 11 février 2005 et ses décrets d'application du 21 décembre 2006 définissent l'ensemble du cadre réglementaire. Il existe des bonnes pratiques qui évoluent avec la réglementation et les évolutions techniques. Le clou podotactile et la bande podotactile (appelée aussi bande de guidage) sont des solutions novatrices qui favorisent l'accessibilité aux transports en commun.
+
+
+=== Accessibilité dans la loi française ===
+La Loi pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées, que l’on nomme souvent la loi « Handicap » (11 février 2005) offre un cadre législatif à l’accessibilité en France. Elle est initiée par Jacques Chirac et votée sous le gouvernement de Jean-Pierre Raffarin.
+
+
+==== Cadre bâti ====
+
+Le chapitre III du titre IV de la loi 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées s’intitule : cadre bâti, transports et nouvelles technologies. L’article 41 dit que les « (…) établissements recevant du public (…) doivent être tels que ces locaux et installations soient accessibles à tous, et notamment aux personnes handicapées, quel que soit le type de handicap (…) ».
+L’accessibilité devient enfin aujourd’hui un droit pour tous car il s’agit d’un principe égalitaire, fondement même de la constitution et devise républicaine française. C’est pourquoi de nombreuses actions de sensibilisation du grand public s’inscrivent au cœur d’une volonté politique et d’une démarche citoyenne de progrès motivé par l’intérêt universel d’un pays plus accessible à tous, pour tous,.
+Pour rappel, des lois sur le statut des personnes handicapées avaient été votées dont celle du 30 juin 1975, « d’orientation en faveur des personnes handicapées ». Elle fixe le cadre juridique de l’action des pouvoirs publics : importance de la prévention et du dépistage des handicaps ; obligation éducative pour les enfants et adolescents handicapés, accès des personnes handicapées aux institutions ouvertes à l’ensemble de la population et maintien chaque fois que possible dans un cadre ordinaire de travail et de vie.
+La loi du 11 février 2005 dite loi « handicap » concernant le cadre bâti prévoit :
+
+Le principe d’accessibilité généralisée sans rupture de la chaîne du déplacement
+L’attestation de conformité aux règles d’accessibilité obligatoire
+L’obligation d’accessibilité pour les établissements recevant du public (ERP) neufs
+Des délais: établissements recevant du public existants 11 février 2015 avec diagnostic avant 1er janvier 2011 (proposition de réduction du délai diagnostic au 31 décembre 2008 à suivre)
+Les délais pour les préfectures et universités : 1er janvier 2011
+Tous les types de handicap pris en compte dans la conception bâtiment
+Que les règles des établissements recevant du public neufs s’appliquent aux établissements recevant du public existants
+Modalité particulière (dérogation) si contrainte liée à la solidité bâtiment
+Sanction en cas de non-respect des règles d’accessibilité
+Avant 2005, date à laquelle est votée la Loi pour l'égalité des droits et des chances, l'accessibilité au sein des ERP en bati neuf et bati existant n’était pas contrainte. Autrement dit, le non-respect des obligations relatives à l’accessibilité des établissements recevant du public n'était pas sanctionné par une fermeture administrative ou une amende.
+L’arrêté du 8 décembre 2014
+Concernant l'accessibilité des ERP, ce texte officiel fixe « les dispositions (…) relatives à l'accessibilité aux personnes handicapées des établissements recevant du public situés dans un cadre bâti existant et des installations existantes ouvertes au public ».
+Toutes les dispositions à prendre sont décrites dans les arrêtés qui succèdent à la loi de 2005. L'arrêté du 8 décembre 2014 (23 articles et 9 annexes) notamment, fixe les obligations à respecter dans les établissements recevant du public et les installations ouvertes au public, en bati-existant.
+En bref, la transformation d’un bâtiment en bâtiment adapté et « accessible » aux personnes en situation de handicap est possible quand les dimensions, les agencements, et l’installation de dispositifs (rampes de seuils, bandes d’éveil à la vigilance, etc) respectent les obligations fixées.
+Les dispositions à prendre sont décrites dans les 9 annexes de l’arrêté. Elles sont édictées dans le respect des règles de conformité relative à l’accessibilité : espace d’usage pour les fauteuils roulants, espace de manœuvre, largeur des portes, contremarches et nez de marches contrastants dans les escaliers pour qu’ils soient visibles par les non-voyants et mal-voyants, etc.
+
+
+==== La dérogation ====
+En cas d'impossibilité de réaliser les travaux d'accessibilité prévus par la loi, il est possible de recourir à une demande de dérogation qu'il est obligatoire de déposer auprès de la mairie de sa commune.
+Il existe quatremotifs de dérogation :
+
+Financière : Disproportion flagrante entre le coût des travaux engagés et le chiffre d’affaires de l’établissement
+Impossibilité technique : celle-ci est liée à la structure du bâtiment
+Préservation du patrimoine : Si l’établissement se situe dans une zone historique et protégée
+Refus de la copropriété : Quand l’assemblée des colocataires n’a pas accepté ni voté la mise en œuvre des travaux
+Des experts (secteurs privés) peuvent aider les gestionnaires des établissements recevant du public (Catégorie 1 à 5) à remplir un dossier de dérogation qui sera transmis puis validé par une commission d’experts.
+Des solutions dérogatoires existent comme les rampes « Trait d'union » pour franchir une ou deux marches.
+
+
+=== Mise en œuvre de la réglementation ===
+En 2015 en France, on estime à 225 000 le nombre d'établissements recevant du public aux normes, soit 20 % du total de ces établissements. Saint-Méloir-des-Ondes est un exemple de collectivité ayant respecté les délais initiaux.
+En 2018, en France, selon la Délégation ministérielle à l'accessibilité (DMA), plus de 660 000 ERP (Établissement recevant du public) étaient entrés dans les Ad'AP. 350 000 ERP étaient devenus accessibles. Ce qui fait au total un million d'ERP.
+Des délais supplémentaires sont donc établis dans une ordonnance du 26 septembre 2014. Des agenda d'accessibilité programmée (ADAP) doivent être mis en œuvre, avec un engagement de procéder aux travaux sous 3 à 9 ans. Le Conseil régional de Rhône-Alpes avait déjà engagé une programmation en ce sens pour la mise en accessibilité de ses 267 lycées.
+
+
+=== Les Ad'ap clôturé depuis le 31 mars 2019 ===
+L’inscription aux Ad'ap permettait aux gestionnaires des commerces, centres culturels, hôtels, pharmacie, etc (tous les ERP publics et privés) de programmer les dépenses engagées pour les travaux d’aménagement de leur établissement pour que ceux-ci soient accessibles.
+Ainsi, pour échelonner les frais relatifs à la mise en chantier pendant l’année 2015, l’inscription aux Ad'ap (agenda d’accessibilité programmé) était vivement conseillée par les autorités administratives. Les inscriptions sont clôturées depuis le 31 mars 2019. Les établissements sont donc censés être accessibles depuis le lendemain de cette date.
+
+
+== Accessibilité dans les usages ==
+
+
+=== Communication ===
+
+
+=== Accessibilité numérique et accessibilité des sites internet en entreprises ===
+En France, le décret du 24 juillet 2019 fixe les dispositions à prendre pour que les services de la communication en ligne soient accessibles aux personnes en situation de handicap. Cet arrêté s’inscrit dans la continuité de ce que prévoyait la loi dite « Handicap » de 2005 relativement à la communication.
+Publié dans le Journal Officiel, il prévoit principalement les dispositions suivantes :
+
+les entreprises dont le CA annuel en France est supérieur ou égal à 250 millions d’euros doivent intervenir pour que les services soient accessibles aux personnes handicapées ;
+les sites web, intranet, extranet, applications mobiles, le mobilier numérique, les interfaces high tech installées dans l’espace public, sont dans l’obligation d’être adaptés aux personnes handicapées.
+En cas de non-application de ce décret, des sanctions peuvent être appliquées. Pour ce qui est des contenus exemptés, le décret en précise la nature, par exemple : les vidéos et leurs textes publiés avant le 23 septembre 2020.
+
+
+=== Arts et divertissement ===
+Les lieux culturels et touristiques, dans un souci d'ouverture vers tous les publics, et, en France, dans le respect de la loi de 2005, souhaitent accueillir des personnes handicapées. Pour ce faire, de nombreuses solutions techniques et humaines existent. Dans les solutions humaines sont comprises par exemple visites tactiles, visites en langue des signes et ateliers pour personnes déficientes intellectuelles, etc. Dans les solutions techniques, il s'agit de fournir des audiodescriptions, des visioguides avec sous-titrage ou langue des signes, images tactiles, etc. Il convient d'envisager chaque projet comme différent des autres et de faire appel à des spécialistes, qu'il s'agisse d'associations ou de consultants. Dans l'accessibilité de compréhension, il faut prendre en compte que la capacité de compréhension dépend pour chaque individu des capacités intellectuelles, de sa culture d'origine, de l'éducation reçue, etc. Des textes et descriptions en langage simplifié sont pour cela un outil important.
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Bibliographie ===
+Recueil des belles pratiques et des bons usages Guide co-édité par les ministères de l'Écologie et du Logement, présentant 58 « réalisations exemplaires » d'amélioration des conditions de vie et de déplacement de personnes âgées et/ou handicapées, à mobilité réduite (critères)
+J. Heimans, « L'accessibilité, terme nouveau en phytogéographie », Vegetatio, vol. 5-6, no 1,‎ 1954, p. 142-146.
+SNCF, « La gare du Val d'Or, modèle de bonnes pratiques en matière d'accessibilité », La lettre de l'accessibilité, no 8,‎ juin 2012 (lire en ligne, consulté le 22 décembre 2018).
+
+
+=== Articles connexes ===
+Accessibilité numérique
+Accessibilité du web
+Droits du handicap (mouvement)
+Web Accessibility Initiative (WAI)
+Accessibilité universelle
+Vitalité urbaine
+
+
+=== Liens externes ===
+
+Ressource relative à la recherche : JSTOR  
+
+Ministère Transition écologique et solidaire, Centre de ressources sur l'accessibilité
+CEREMH ; Innovation pour l'accessibilité
+CEREMA, ressources accessibilité ville transport et bâti
+CEREMA, ressources documentaires accessibilité
+Portail de l'accessibilité culturelle (doté d'un Espace Pro)
+L'école pour tous ; Site ministériel avec ressources numériques facilitant la scolarisation d'élèves handicapés
+AHA Autonomie Habitat Automobile Société d'Aménagement, Accessibilité & Autonomie à Nancy (54) et en Lorraine
+Outil d'accessibilité du site
+Comment être partenaire de l’école quand on est parent à besoins spécifiques ? Etude UFAPEC août 2020 par Alice Pierard
+ Portail du handicap

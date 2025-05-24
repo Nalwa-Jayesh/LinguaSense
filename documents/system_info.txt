@@ -1,0 +1,5 @@
+
+    This is a multilingual voice-based RAG system designed for visually impaired users.
+    It provides voice access to various documents and can understand queries in multiple languages.
+    The system uses speech-to-text, document retrieval, and text-to-speech to create a natural conversation experience.
+    
