@@ -115,3 +115,9 @@ pip install -r requirements.txt
 ```
 
 ## Installation
+
+### Step 1: Clone the repository
+```sh
+git clone https://github.com/Nalwa-Jayesh/LinguaSense.git
+cd LinguaSense
+```
