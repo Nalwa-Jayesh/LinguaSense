@@ -127,3 +127,11 @@ You can install these dependencies using pip:
 ```sh
 pip install -r requirements.txt
 ```
+
+## Usage
+
+### Step 1: Run the app
+```sh
+python app.py
+```
+### Step 2: Input voice will be taken through the mic
