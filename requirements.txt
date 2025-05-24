@@ -8,3 +8,7 @@ coqui-tts
 pyaudio
 sentence-transformers
 pydub
+fugashi
+cutlet
+mecab-python3
+unidic-lite

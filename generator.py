@@ -7,25 +7,27 @@ def generate_response(prompt):
         "Content-Type": "application/json"
     }
 
-    url = f"https://api-inference.huggingface.co/models/{LLM_MODEL}"
+    url = f"https://router.huggingface.co/novita/v3/openai/chat/completions"
     payload = {
-        "inputs": prompt,
-        "parameters": {
-            "max_new_tokens": 200,
-            "return_full_text": False
-        }
+        "messages": [
+            {
+                "role": "user",
+                "content": prompt
+                }
+            ],
+        "model": f"{LLM_MODEL}"
     }
 
     response = requests.post(url, headers=headers, json=payload)
-    
+
     print("Status code:", response.status_code)
     print("Response content:", response.text)
 
     if response.status_code == 200:
         try:
             result = response.json()
-            if isinstance(result, list) and "generated_text" in result[0]:
-                return result[0]["generated_text"]
+            if isinstance(result, dict) and "choices" in result:
+                return result["choices"][0]["message"]["content"]
             else:
                 print("⚠️ Unexpected response structure:", result)
                 return "Sorry, I couldn't generate a response."

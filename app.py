@@ -27,8 +27,9 @@ def main():
 
     # Step 4: Use Mistral LLM to generate a smart answer
     prompt = (
-        "You are a multilingual assistant for visually impaired users. "
-        "Answer the question clearly, briefly, and in plain language using the context.\n\n"
+        f"You are a multilingual assistant for visually impaired users. "
+        f"Answer the question clearly, briefly, and in plain language using the context. "
+        f"Respond in the same language as the user's query, which is {language}.\n\n"
         f"Context:\n{context}\n\nUser: {query_text}\nAssistant:"
     )
     response_text = generate_response(prompt)
