@@ -88,6 +88,20 @@ The pipeline consists of several modular components that work together to proces
    - The audio playback module plays the audio file to the user.
 3. **Output**: Audio playback of the generated response.
 
+## Installation
+
+### Step 1: Clone the repository
+```sh
+git clone https://github.com/Nalwa-Jayesh/LinguaSense.git
+cd LinguaSense
+```
+
+### Step 2: Set Up a Virtual Environment
+```sh
+python -m venv .venv
+source .venv/bin/activate  # On Windows use `.venv\Scripts\activate`
+```
+
 ## Requirements
 
 To run the application, you need to install the following Python packages:
@@ -112,12 +126,4 @@ You can install these dependencies using pip:
 
 ```sh
 pip install -r requirements.txt
-```
-
-## Installation
-
-### Step 1: Clone the repository
-```sh
-git clone https://github.com/Nalwa-Jayesh/LinguaSense.git
-cd LinguaSense
 ```
