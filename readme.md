@@ -9,7 +9,7 @@
 - 🎤 **Live microphone input** with real-time speech capture
 - 🗣️ **Multilingual speech-to-text** using Faster-Whisper (offline-capable)
 - 📚 **Semantic search** using Hugging Face embeddings + FAISS
-- 🤖 **Contextual response generation** with `google/gemma-7b-it` via Hugging Face Inference API
+- 🤖 **Contextual response generation** with `deepseek/deepseek-v3-0324` via Hugging Face Inference API
 - 🔊 **Multilingual TTS** using Coqui TTS with automatic language detection
 - 🧠 Modular, local-first architecture — easy to extend and customize
 
